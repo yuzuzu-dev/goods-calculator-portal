@@ -31,7 +31,7 @@ export default function Home() {
       <main className="flex-1 px-6 py-10 pb-24">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-xl font-bold text-gray-800">
-            グッズ計算アプリ
+            Yuzuru Hanyu グッズ計算アプリ
           </h1>
 
           <p className="mt-2 text-sm text-gray-700">
